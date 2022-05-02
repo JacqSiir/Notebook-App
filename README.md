@@ -9,5 +9,4 @@ Notes: Quick/Sticky notes, Journal entries,
 Lists: Shopping, Chores/Errands, Goals, Recipies
 
 ## DB Schema
-<iframe src="https://kitt.lewagon.com/db/59174" title="W3Schools Free Online Web Tutorials">
-</iframe>
+<img alt="image" src="https://user-images.githubusercontent.com/40294836/166295779-11f6ceb6-7d96-40c8-b8ae-1afd0ffc24a2.png">
